@@ -85,6 +85,15 @@ A Simple ChartView For Simple data statistics
  */
 @property (assign, nonatomic, getter=isShowPointLabel) BOOL showPointLabel;
 ```
+####如果数值是百分比数值
+
+```
+/**
+ *  y轴数值是否添加百分号
+ */
+@property (assign, nonatomic, getter=isPercent) BOOL percent;
+```
+* 当传入的数值是百分比数值时，通过这个属性来添加百分号
 ####坐标点是否添加点击事件
 
 ```
