@@ -1,5 +1,5 @@
 # DVLineChart
-A Simple ChartView For Simple data statistics
+A Simple LineChartView For Simple data statistics
 
 ![img](http://d.pr/i/1arn4+ "img")
 
