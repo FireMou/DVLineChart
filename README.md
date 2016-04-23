@@ -85,6 +85,15 @@ A Simple ChartView For Simple data statistics
  */
 @property (assign, nonatomic, getter=isShowPointLabel) BOOL showPointLabel;
 ```
+####y轴和屏幕左侧的距离
+
+```
+
+/**
+ *  y轴与左侧的间距
+ */
+@property (assign, nonatomic) CGFloat yAxisViewWidth;
+```
 ####如果数值是百分比数值
 
 ```
