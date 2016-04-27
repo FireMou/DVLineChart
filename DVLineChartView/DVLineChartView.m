@@ -173,7 +173,7 @@
     self.xAxisView.separateColor = self.separateColor;
     [self.xAxisView draw];
     
-    if (self.index < 0) {
+    if (self.index >= 0) {
         
         if (self.index * self.pointGap > self.scrollView.width * 0.5) {
             [self.scrollView setContentOffset:CGPointMake(self.index * self.pointGap - self.scrollView.width * 0.5 + self.pointGap * 0.8, 0) animated:YES];
