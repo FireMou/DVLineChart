@@ -15,7 +15,7 @@
  */
 @property (strong, nonatomic) UIColor *lineColor;
 /**
- *  坐标点数组
+ *  坐标点数组(The data array used to display)
  */
 @property (strong, nonatomic) NSArray *pointArray;
 
