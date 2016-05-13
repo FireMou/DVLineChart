@@ -98,7 +98,7 @@ A Simple LineChartView For Simple data statistics
 
 ```
 /**
- *  y轴数值是否添加百分号
+ *  y轴数值是否添加百分号（if the number you need to show is percentage value, you can through this property to control it. default is NO）
  */
 @property (assign, nonatomic, getter=isPercent) BOOL percent;
 ```
