@@ -1,7 +1,7 @@
 # DVLineChart
 A Simple LineChartView For Simple data statistics
 
-![img](http://d.pr/i/1arn4+ "img")
+![img](http://d.pr/i/11h7W+ "img")
 
 简单描述
 ---------------------
@@ -124,7 +124,7 @@ A Simple LineChartView For Simple data statistics
 @end
 ```
 ####这个图表框架可以支持多条线
-![img](http://d.pr/i/Mg2a+ "img")
+![img](http://d.pr/i/kjMJ+ "img")
 
 ```
 
